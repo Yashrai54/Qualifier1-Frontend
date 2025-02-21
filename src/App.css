@@ -41,12 +41,12 @@ h1 {
 
 .submit-btn {
   background-color: #007bff;
-  color: white;
+  color: black;
 }
 
 .operation-btn {
   background-color: #28a745;
-  color: white;
+  color: black;
 }
 
 .response-box, .operation-box {
