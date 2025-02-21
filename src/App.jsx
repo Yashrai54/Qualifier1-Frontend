@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const API_URL = "https://your-app.onrender.com/bfhl";
+const API_URL = "https://qualifier1backend.onrender.com/bfhl";
 
 function App() {
   const [input, setInput] = useState("");
